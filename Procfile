@@ -1,1 +1,1 @@
-worker: node deneme.html
+worker: node index.php
